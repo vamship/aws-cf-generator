@@ -1,5 +1,5 @@
 {
-  "name": "cf-generator",
+  "name": "aws-cf-generator",
   "version": "0.0.1",
   "description": "Library with classes and helpers for generation of cloud formation templates",
   "main": "lib/index.js",
